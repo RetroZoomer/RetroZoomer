@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66c71eec92ec1a8a73b27fdc?variant=dark&roadmaps=qa)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c71eec92ec1a8a73b27fdc?variant=dark" alt="roadmap.sh"/></a>
 
 <!--
 **RetroZoomer/RetroZoomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
